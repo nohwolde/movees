@@ -1,0 +1,8 @@
+{
+	"appId": "com.example.app",
+	"appName": "Audyos",
+	"webDir": "out",
+	"packageClassList": [
+		"CDVPlugin"
+	]
+}
